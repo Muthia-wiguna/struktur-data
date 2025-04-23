@@ -1,0 +1,11 @@
+@startmindmap (tipe data)
+* Integer
+** Float / Double
+*** String
+**** Boolean
+*** Character
+**** Array / List
+**** Tuple
+**** Dictionary / Map
+** Set
+@endmindmap
